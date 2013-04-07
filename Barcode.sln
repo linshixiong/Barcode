@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barcode", "Barcode\Barcode.csproj", "{51324ECA-B18F-4897-8611-AA0B39952099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSCLIB_DLL_IN_C_Sharp", "C:\Documents and Settings\linsx\桌面\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\TSCLIB_DLL_IN_C_Sharp.csproj", "{5973F987-103A-455D-A5E3-C7429906657A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51324ECA-B18F-4897-8611-AA0B39952099}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{51324ECA-B18F-4897-8611-AA0B39952099}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{51324ECA-B18F-4897-8611-AA0B39952099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51324ECA-B18F-4897-8611-AA0B39952099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5973F987-103A-455D-A5E3-C7429906657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5973F987-103A-455D-A5E3-C7429906657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5973F987-103A-455D-A5E3-C7429906657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5973F987-103A-455D-A5E3-C7429906657A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
